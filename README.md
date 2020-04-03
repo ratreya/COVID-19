@@ -12,3 +12,9 @@ World-wide daily new cases broken up by top 10 contributing countries.
 
 US daily new cases broken up by top 10 contributing states.
 ![US Spread](https://storage.googleapis.com/atreya/us-covid-spread.png)
+
+Comparing New Case growth in India against other leading countries.
+![India Growth](https://storage.googleapis.com/atreya/india-growth.png)
+
+Comparing New Case growth of top 10 US states against each other.
+![India Growth](https://storage.googleapis.com/atreya/us-state-growth.png)

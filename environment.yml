@@ -1,0 +1,21 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - conda
+  - python=3.7
+  - python.app
+  - conda-env
+  - conda-build
+  - conda-verify
+  - _ipyw_jlab_nb_ext_conf
+  - anaconda==2020.02=py37_0
+  - anaconda-navigator
+  - navigator-updater
+  - jupyterlab
+  - ipywidgets
+  - nodejs
+  - altair
+  - vega_datasets
+  - vega
+  - voila

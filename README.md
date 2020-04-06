@@ -1,4 +1,7 @@
 # COVID-19 Notebooks
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ratreya/COVID-19/master?filepath=visualization.ipynb)
+
 * `base-builder.ipynb` is run to produce the base build of merged and cleaned-up CSV file from [JHU CSSE daily reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports). `jhu-daily-reports.csv` has the following columns:
 
 | Country | State | County | Date    | Confirmed | Deaths | Recovered | Confirmed_New | Deaths_New | Recovered_New | 

@@ -1,12 +1,13 @@
 name: base
 channels:
   - defaults
+  - conda-forge
 dependencies:
-  - conda
-  - python=3.7
-  - ipywidgets
-  - nodejs
-  - altair
-  - vega_datasets
-  - vega
-  - voila
+  - conda >=4.8.3
+  - python >=3.7
+  - ipywidgets >=7.5.1
+  - nodejs >=11.14.0
+  - altair >=4.0.1
+  - vega_datasets >=0.8.0
+  - vega >=3.2.0
+  - voila >=0.1.21

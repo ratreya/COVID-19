@@ -11,6 +11,10 @@
 * `incremental-builder.ipynb` is run everyday to incrementally merge in new data into `jhu-daily-reports.csv`.
 * `visualization.ipynb` reads this CSV and generates the following visualizations.
 
+Comparing various trends against total confirmed cases.
+![Global Growth](https://storage.googleapis.com/atreya/global-covid-growth.png)
+![Global Hospitalizations](https://storage.googleapis.com/atreya/global-covid-hospitalization.png)
+
 World-wide daily new cases broken up by top 10 contributing countries.
 ![Global Spread](https://storage.googleapis.com/atreya/global-covid-spread.png)
 

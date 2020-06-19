@@ -3,3 +3,4 @@
 *.lock
 .ipynb_checkpoints
 covid_19_india.csv
+output/

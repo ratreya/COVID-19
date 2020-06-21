@@ -11,6 +11,9 @@
 * `incremental-builder.ipynb` is run everyday to incrementally merge in new data into `jhu-daily-reports.csv`.
 * `visualization.ipynb` reads this CSV and generates the following visualizations.
 
+## First Wave and Second Wave for U.S.
+[![US Waves](https://storage.googleapis.com/atreya/wave.png)](https://ratreya.github.io/COVID-19/wave.html)
+
 ## Comparing various trends against total confirmed cases.
 ![Global Growth](https://storage.googleapis.com/atreya/global-covid-growth.png)
 ![Global Hospitalizations](https://storage.googleapis.com/atreya/global-covid-hospitalization.png)
